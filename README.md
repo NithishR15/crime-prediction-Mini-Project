@@ -1,14 +1,6 @@
 # Welcome to your Crime Incident project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**crime**
 
 Simply visit the crime](https://rep.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
