@@ -1,0 +1,20 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOMContentLoad", "ScriptHost"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    // ... other options
+
+    /* Path Aliases Configuration */
+    "baseUrl": "./", // <--- Important: Set a base URL for paths
+    "paths": {
+      // Map '@/*' alias to files/folders inside the 'src/*' directory
+      "@/*": ["./src/*"] 
+    }
+  },
+  // ... rest of the config
+}
