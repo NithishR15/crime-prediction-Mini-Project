@@ -2,7 +2,7 @@
 
 
 
-Simply visit the crime](https://rep.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the crime](https://gemini.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
 Changes made via rep will be committed automatically to this repo.
 
